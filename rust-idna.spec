@@ -5,7 +5,7 @@
 
 Name:           rust-%{crate}
 Version:        0.2.2
-Release:        1
+Release:        2
 Summary:        IDNA (Internationalizing Domain Names in Applications) and Punycode
 
 # Upstream license specification: MIT/Apache-2.0
